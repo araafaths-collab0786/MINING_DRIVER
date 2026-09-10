@@ -1,0 +1,6 @@
+{
+  "name": "MININGDRIVER",
+  "description": "Bailadila Iron Ore Mines AI & IoT Low-Visibility Safety System and Real-Time Telemetry Dashboard",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
